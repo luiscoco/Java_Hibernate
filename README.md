@@ -1,7 +1,9 @@
 # Java Hibernate integration
 
 Introduction to Hibernate framework
+
 Piyush Lovanshi
+
 1 de marzo de 2024
 
 Hibernate is a open-source persistence framework that simplifies the interaction between Java applications and databases.
