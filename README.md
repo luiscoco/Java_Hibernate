@@ -1,5 +1,7 @@
 # Java Hibernate integration
 
+https://www.linkedin.com/pulse/integrating-java-application-hibernate-piyush-lovanshi-pdqaf/
+
 Introduction to Hibernate framework
 
 Piyush Lovanshi
